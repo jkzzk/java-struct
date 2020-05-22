@@ -12,6 +12,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="jkzzk" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="java-struct" />
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
       <set>
